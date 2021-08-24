@@ -22,6 +22,7 @@ class Test0001 {
 
     @Test
     void test() {
+
         int target = 16;
         int[] array = new int[] {2,7,11,15,1};
 
